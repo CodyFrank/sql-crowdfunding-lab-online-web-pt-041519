@@ -40,52 +40,52 @@ INSERT INTO users (name, age)
 values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
 
 INSERT INTO users (name, age)
-values ("name", 1)
+values ("name", 1);
